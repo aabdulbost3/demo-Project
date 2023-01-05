@@ -1,0 +1,51 @@
+.modal {
+  position: absolute;
+  width: 60%;
+  height: 100vh;
+  z-index: 9;
+}
+.werd2 {
+  position: relative;
+  width: 80%;
+}
+.addbtn {
+  text-align: center;
+  padding: 10px 20px;
+  background: green;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  font-weight: 600;
+  transition: 0.3s;
+}
+.werd {
+  margin-top: -5%;
+  margin-left: -50%;
+}
+.addbtn:hover {
+  color: green;
+  background: #fff;
+  border: 2px solid green;
+}
+.falsebtn {
+  z-index: 88;
+  position: absolute;
+  font-size: 40px;
+  background-color: rgba(240, 248, 255, 0);
+  border: none;
+  color: #fff;
+  left: 63.5%;
+  padding: 0.5% 1%;
+  background-color: rgba(255, 255, 255, 0);
+  transition: 0.3s;
+}
+.falsebtn:hover {
+  background: red;
+}
+.falsebtn i {
+  transition: 0.3s;
+}
+.falsebtn i:hover {
+  box-shadow: rgba(255, 255, 255, 0.35) 0px 5px 15px;
+  background-color: red;
+}

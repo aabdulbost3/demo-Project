@@ -1,0 +1,18 @@
+.RightNavbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2% 3%;
+    width: 100%;
+    background: rgb(225, 225, 225);
+    border-radius:0 0 40px 40px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 0px  15px;
+}
+.mml{
+    width: 30%;
+}
+.Logo p{
+    font-size: 30px;
+    font-weight: 700;
+}

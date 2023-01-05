@@ -1,0 +1,41 @@
+.HeaderMySkillsContentCenterLeftText p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 39px;
+text-align: justify;
+letter-spacing: 0.04em;
+text-transform: lowercase;
+color: #F5F5F5;
+max-width: 411px;
+}
+.HeaderMySkillsContentCenterLeftText {
+    width: 100%;
+    padding: 0 0 0 80px;
+}
+.HeaderMyskillsBtn {
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.HeaderMySkillsContentCenterLeft{
+    width: 50%;
+    margin: 0 auto;
+}
+@media only screen and (max-width: 675px) {
+    .HeaderMySkillsContentCenterLeft {
+        width: 100%;
+    }
+    .HeaderMySkillsContentCenterLeftText p {
+        width: 100%;
+        text-align: center;
+    }
+    .HeaderMyskillsBtn {
+        width: 80%;
+        margin-bottom: 5%;
+    }
+    .HeaderMyskillsBtn button {
+        width: 100%;
+        
+    }
+}

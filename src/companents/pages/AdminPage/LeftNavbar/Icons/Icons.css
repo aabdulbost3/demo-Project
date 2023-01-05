@@ -1,0 +1,25 @@
+.llp{
+    width: 100%;
+    padding: 15%;
+    background-color: rgb(225, 225, 225);
+    text-align: center;
+    border-radius: 5px;
+}
+.aas i{
+    padding: 10%;
+    margin: 5%;
+    width: 100%;
+    font-size: 35px;
+    color: #A5A9B8;
+    transition: 0.3s;
+    border: 2px solid #A5A9B8;
+    border-radius: 10px;
+}
+.aas i:hover {
+    color: #fff;
+    background-color: blue;
+    border: 2px solid #fff;
+}
+.kkl {
+    margin-left: 5%;
+}

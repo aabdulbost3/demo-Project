@@ -1,0 +1,22 @@
+.BlogSingleMain {
+    background-image: url(https://res.cloudinary.com/dmm39dlkm/image/upload/v1672480889/Rectangle_3_zpkxsb.png);
+    background-size: cover;
+    padding: 5%;
+    text-align: center;
+    color: #fff;
+    font-size: 45px;
+}
+.BlogSingleMainDivdf {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.BlogSingleMain h5 {
+    color: #fff;
+    font-size: 22px;
+    margin: 5% 2%;
+}
+.BlogSingleMain h5 i {
+    padding: 0 10px;
+}

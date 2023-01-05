@@ -1,0 +1,13 @@
+.acontent {
+    display: flex;
+    justify-content: space-between;
+    padding: 3%;
+}
+.fdsga70 {
+    width: 70%;
+    padding:1% 0;
+    height: 100%;
+}
+.fdsga30{
+    width: 30%;
+}

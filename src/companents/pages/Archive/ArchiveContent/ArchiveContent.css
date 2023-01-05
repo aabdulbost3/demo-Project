@@ -1,0 +1,14 @@
+.acontent {
+    display: flex;
+    justify-content: space-between;
+    padding: 3%;
+}
+.azga70 {
+    widows: 70%;
+    padding:1% 0;
+    border: 1px solid #fff;
+    height: 100%;
+}
+.azga30{
+    widows: 30%;
+}

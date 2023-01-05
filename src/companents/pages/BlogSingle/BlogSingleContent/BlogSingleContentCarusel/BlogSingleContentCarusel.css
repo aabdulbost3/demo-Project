@@ -1,0 +1,40 @@
+.BlogSingleContentCarusel {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px solid #fff;
+    color: #fff;
+    margin-top: 5%;
+}
+.BlogSingleContentCaruselContent {
+    display: flex;
+    width: 50%;
+    padding: 1% 0.5% 1% 1%;
+}
+.BlogSingleContentCaruselContent b {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 45%;
+    margin-top: 3%;
+}
+.BlogSingleContentCaruselContent h2 {
+    width: 100%;
+}
+.BlogSingleContentCaruselContent p{
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    padding: 1% 2%;
+}
+.BlogSingleContentCaruselContent img{
+    max-width: 100px;
+}
+.ee {
+    text-align: right;
+}
+.ee p b {
+    text-align: right;
+    width: 100% !important;
+    padding-left: 55%;
+}

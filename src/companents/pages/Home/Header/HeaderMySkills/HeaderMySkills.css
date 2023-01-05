@@ -1,0 +1,16 @@
+.HeaderMySkills {
+    margin-top: 30px;
+    padding: 80px 0;
+    background-image: url(https://res.cloudinary.com/dmm39dlkm/image/upload/v1672506108/Rectangle_7_hnrthc.png);
+    background-position: cover;
+    background-size: 1400px;
+    background-attachment: fixed;
+}
+.qq {
+    display: flex;
+}
+@media only screen and (max-width: 675px) {
+    .qq {
+        flex-wrap: wrap;
+    }
+}

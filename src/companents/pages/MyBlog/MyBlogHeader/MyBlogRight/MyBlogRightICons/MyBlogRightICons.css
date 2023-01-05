@@ -1,0 +1,20 @@
+.MyBlogRightICons {
+    width: 100%;
+    padding: 5%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+    border: 1px solid #fff;
+}
+.Iconsdiv {
+    width: 33%;
+}
+.Iconsdiv i {
+    color: #DADEE8;
+    font-size: 50px;
+    transition: 0.3s;
+}
+.Iconsdiv i:hover {
+    color: #fff;
+}

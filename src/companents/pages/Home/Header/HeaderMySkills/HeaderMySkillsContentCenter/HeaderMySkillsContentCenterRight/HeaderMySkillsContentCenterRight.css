@@ -1,0 +1,62 @@
+.HeaderMySkillsContentCenterRight {
+  width: 50%;
+}
+.companentsfoiz {
+  width: 60%;
+  margin: 0 20% 0 10%;
+}
+.textfoiz {
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  padding: 10px;
+}
+.textfoiz b {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 42px;
+  color: #ffffff;
+}
+.textfoiz p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  color: #ffffff;
+}
+.yb {
+  border-radius: 10px;
+  width: 75%;
+  height: 10px;
+  background: #fff;
+}
+.sakson {
+  border-radius: 10px;
+  width: 80%;
+  height: 10px;
+  background: #fff;
+}
+.e {
+  border-radius: 10px;
+  width: 50%;
+  height: 10px;
+  background: #fff;
+}
+.ff {
+  border-radius: 10px;
+  height: 10px;
+  background: #fff;
+  width: 95%;
+}
+@media only screen and (max-width: 675px) {
+    .HeaderMySkillsContentCenterRight {
+      width: 80%;
+
+    }
+    .companentsfoiz {
+      width: 100%;
+    }
+}

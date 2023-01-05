@@ -1,0 +1,22 @@
+.footerleft {
+  width: 60%;
+  color: #fff;
+  
+}
+.footerleft h2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 25.3091px;
+  line-height: 31px;
+  color: #ffffff;
+}
+.footerleft p {
+  padding-top: 2%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18.31px;
+  line-height: 22px;
+  color: #ffffff;
+}

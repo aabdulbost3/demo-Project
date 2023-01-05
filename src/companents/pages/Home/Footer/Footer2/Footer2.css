@@ -1,0 +1,15 @@
+.Footer2 {
+  width: 100%;
+  background: #332e2e;
+  text-align: center;
+  padding: 2% 0;
+}
+.Footer2 h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 25px;
+  text-align: center;
+  color: #ffffff;
+}

@@ -1,0 +1,22 @@
+.Blogborder{
+    border: 1px solid #fff;
+}
+.MyBlogHeaderContent2 {
+    width: 100%;
+    margin: 2% 0;
+}
+.fontsize p{
+    font-size: 13px;
+}
+.fontsize h2{
+    font-size: 13px;
+}
+.Myblognavbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+    border: 1px solid #fff;
+}
+.Myblognavbar h2 {
+    color: #fff ;
+}

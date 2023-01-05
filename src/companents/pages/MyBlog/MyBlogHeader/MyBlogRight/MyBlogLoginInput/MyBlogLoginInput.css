@@ -1,0 +1,39 @@
+.MyBlogLoginInput{
+    width: 100%;
+    padding: 5%;
+    margin: 5% 0;
+    border: 1px solid #fff;
+}
+.MyBlogLoginInput h2{
+    color: #fff;
+    font-weight: 800;
+    font-size: 22px;
+}
+.MyBlogLoginInput p {
+    text-align: center;
+    color: #fff;
+    padding: 5% 0;
+}
+.MyBlogLoginInputdf {
+    display: flex;
+}
+.width70 {
+    width: 60%;
+}
+.width30 {
+    width: 40%;
+    padding: 3.5% 0;
+}
+.width30 button {
+    padding: 12px 25px;
+    color: #fff;
+    background: red;
+    transition: .3s;
+    border: 1px solid #fff;
+}
+.width30 button:hover {
+    color: rgb(255, 255, 255);
+    border: 1px solid red;
+    background-color: rgba(255, 255, 255, 0);
+    box-shadow: rgba(255, 0, 0, 0.35) 0px 5px 15px;
+}

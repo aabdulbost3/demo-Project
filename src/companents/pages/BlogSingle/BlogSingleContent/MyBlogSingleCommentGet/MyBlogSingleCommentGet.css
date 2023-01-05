@@ -1,0 +1,42 @@
+.MyBlogSingleCommentGet {
+    width: 100%;
+    border: 1px solid #fff;
+    padding: 3%;
+    color: #fff;
+    margin: 3% 0;
+}
+.MyBlogComentName {
+    width: 100%;
+    display: flex;
+    text-align: left;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.imgdf {
+    width: 10%;
+}
+.imgdf img {
+    background: #fff;
+    border-radius: 50%;
+    width: 100%;
+}
+.pdf {
+    width: 90%;
+    padding: 0 2%;
+}
+.pddf {
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+}
+.pddf h2 {
+    padding: 3% 2%;
+}
+.MyBlogDescriptionnn span{
+    width:70%;
+}
+.MyBlogDescriptionnn {
+    width:70%;
+    padding: 2% 0;
+}

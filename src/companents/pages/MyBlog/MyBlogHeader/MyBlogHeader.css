@@ -1,0 +1,14 @@
+.MyBlogHeader {
+    padding: 3%;
+}
+.mybgdf {
+    display: flex;
+    justify-content: space-between;
+}
+.fzga70 {
+    width: 70%;
+}
+.fzga30 {
+    width: 30%;
+    margin: 0 auto;
+}

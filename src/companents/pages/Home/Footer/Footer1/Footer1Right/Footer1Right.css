@@ -1,0 +1,19 @@
+.Footer1Right {
+  display: flex;
+  width: 40%;
+  justify-content: space-between;
+  color: #fff;
+  padding: 0 5%;
+}
+.archive ul li {
+  padding: 5px 5px 5px 10px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 15.8182px;
+  line-height: 19px;
+  text-decoration-line: underline;
+}
+.archive ul li:nth-child(1) {
+  padding-top: 10px;
+}

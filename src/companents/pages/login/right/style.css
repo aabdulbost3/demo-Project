@@ -1,0 +1,17 @@
+.rl {
+  background: blue;
+  width: 100%;
+}
+.loginimg {
+  max-width: 350px;
+  max-height: 100%;
+  margin: 0 auto;
+}
+.allloginimg {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}

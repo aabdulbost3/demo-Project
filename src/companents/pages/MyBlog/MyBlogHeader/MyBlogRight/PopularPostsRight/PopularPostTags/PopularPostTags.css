@@ -1,0 +1,27 @@
+.PopularPostTags {
+    width: 100%;
+    padding: 5% 0;
+}
+.PopularPostTags h2 {
+    color: #fff;
+    padding: 2% 0;
+}
+.PopularPostTagsp{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.PopularPostTagsp a{
+    color: #fff;
+    border: 1px solid #fff;
+    transition: 0.4s;
+    padding: 1% 2% 1% 2%;
+    margin: 5px;
+}
+.PopularPostTagsp a:hover{
+    background: #fff;
+    color: #000;
+    box-shadow: rgba(255, 255, 255, 0.35) 0px 5px 15px;
+}

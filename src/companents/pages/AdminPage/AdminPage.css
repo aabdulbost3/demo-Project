@@ -1,0 +1,15 @@
+.iconss{
+    width: 10%;
+    height: 100vh;
+}
+.d-f {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+.AdminRightNavbar {
+    width: 90%;
+    padding:0 2% ;
+}

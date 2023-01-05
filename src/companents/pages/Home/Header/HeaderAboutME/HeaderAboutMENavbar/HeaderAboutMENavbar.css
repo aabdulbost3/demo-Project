@@ -1,0 +1,10 @@
+.HeaderAboutMENavbar p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 54px;
+  color: #f5f5f5;
+  text-align: center;
+  padding: 50px 0 30px 0;
+}

@@ -1,0 +1,38 @@
+.MyBlogBig2 {
+    max-width: 350px;
+    padding: 20px;
+    background: #5C5656;
+    border-radius: 5px;
+    margin: 1%;
+}
+.MyBlogBig2 img {
+    width: 100%;
+    border-radius: 10px;
+}
+.MyBlogContentText2 h3 {
+    margin-bottom: 5%;
+}
+.MyBlogContentText2 {
+    color: #fff;
+}
+.MyBlogDf2 {
+    display: flex;
+    justify-content: space-between;
+    color: #F1D9D9;
+    padding-top: 5%;
+}
+.MyBlogContent2 {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+}
+@media only screen and (max-width: 675px) {
+.MyBlogContent2{
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;  
+    }
+    .MyBlogBig2 {
+        width: 100%;
+    }
+}

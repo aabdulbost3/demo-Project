@@ -1,0 +1,40 @@
+.HeaderMain {
+  background-image: url(https://res.cloudinary.com/dmm39dlkm/image/upload/v1672480889/Rectangle_3_zpkxsb.png);
+  padding: 130px 80px;
+  background-attachment: fixed;
+  background-size: 1400px;
+}
+.HeaderMain div {
+  max-width: 100%;
+}
+.HeaderMain div h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 47px;
+  line-height: 70px;
+  color: #ffffff;
+}
+.HeaderMain div h2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 45px;
+  color: #ffffff;
+}
+.HeaderMainbtn p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 88px;
+}
+.HeaderMainbtn {
+  max-width: 270px;
+}
+@media only screen and (max-width: 790px) {
+  .HeaderMain {
+    text-align: center;
+  }
+}

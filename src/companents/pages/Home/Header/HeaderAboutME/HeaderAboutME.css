@@ -1,0 +1,8 @@
+.HeaderAboutME {
+    width: 100%;
+    background-attachment: fixed;
+}
+.Headerdf {
+    display: flex;
+    padding: 0 80px;
+}

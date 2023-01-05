@@ -1,0 +1,33 @@
+.PPCtextdf {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10% 0 0 0%;
+}
+.PPCtext {
+    width: 60%;
+    color: #fff;
+    font-size: 14px;
+    padding: 2% 0 0 2%;
+
+}
+.PPCimg {
+    width: 40%;
+}
+.PPCdiv {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    border: 1px solid #fff;
+    padding: 1%;
+    transition: 0.3s;
+}
+.PPCdiv:hover {
+    box-shadow: rgba(255, 255, 255, 0.35) 0px 5px 15px;
+}
+.PopularPostsRight h2{
+    color: #fff;
+    padding: 5% 0;
+    
+}

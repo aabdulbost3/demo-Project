@@ -1,0 +1,81 @@
+{
+    "Login":{
+        "0" : "salom",
+        "1" : "Tezkor",
+        "2" : "Tizimga kirish",
+        "3" : "Xush kelibsiz, iltimos telefon raqam va parolingizni kiritng.",
+        "4" : "Email kiriting",
+        "5" : "Parolingizni kiriting",
+        "6" : "Parolni unutdingizmi?",
+        "7" : "Tizimga kirish",
+        "8" : "Ro’yhatdan o’tmadingizmi?",
+        "9" : "Ro’yhatdan o’tish "
+    },
+    "Navbar":{
+        "0" : "Asosiy",
+        "1" : "Men haqimda",
+        "2" : "Aloqa",
+        "3" : "Ishlarim"
+    },
+    "Header": {
+        "0" : "Web dasturchi va dizayner",
+        "1" : "2018 yildan beri ishlab chiqish amaliyoti",
+        "2" : "Profilga o'tish",
+        "3" : "Saikat Mondal",
+        "4" : "Lorem ipsum dolor sit amet consectetur. Ac ut tristique facilisis lectus est tristique vestibulum aliquam. Hendrerit donec eget sed pellentesque.",
+        "5" : "Mening mahoratim",
+        "6" : "Rezyumeyimni yuk",
+        "7" : "Mening loyiham",
+        "8" : "Mening Sahifam",
+        "9" : "Boshqalar....",
+        "10" : "Ism",
+        "11" : "Familiya",
+        "12" : "elektron pochta",
+        "13" : "Xabar",
+        "14" : "Yuborish",
+        "15" : "Saytingiz nomi. Barcha huquqlar himoyalangan. Saikat mondal tomonidan ishlab chiqilgan",
+        "16" : "Blog haqida",
+        "17" : "Lorem ipsum dolor sit amet consectetur. Aliquam pellentesque mi dis nisl id. Sit tortor orci ultrices pellentesque. Nec sed adipiscing quisque amet lectus orci pellentesque fringilla egestas.",
+        "18" : "Arxiv",
+        "19" : "Boshqa havolalar"
+    },
+    "myblog":{
+        "0" : "UI & UX DIZAYN",
+        "1" : "HAMMASINI KO'RISH",
+        "2" : "Mashhur xabarlar",
+        "3" : "TEGLAR",
+        "4" : "Kategoriyalar",
+        "5" : "Axborot byulleteni",
+        "6" : "Bir oz adolat va mashaqqatli mehnat bilan, lekin juda adolatli tarzda, dengiz haqiqatan ham firibgarlik edi",
+        "7" : "Eirmod nonumy kasd eirmod qilsin",
+        "8" : "Fan",
+        "9" : "Lorem ipsum dolor sit amet, consectetur. Endi hayotni sof eleifendga qo'yib bo'lmaydi. Griddagi Tincidunt nafrat qatlamiga muhtoj. Elitga ham juda och bo'lgan er kerak. Bronza parchasi ko'l kabi mast bo'lishi kerak. Yoki qonundan qo'rqib yashamoqchi bo'lsak, qo'rqib yashaylik. Konvallisga bronza kerak, lekin kerak. Va u xabarni tarqatishni xohlaydi. Nullam sollicitudin integer venenatis molestie nisl urna Quis consectetur nascetur aliquet dui nisl in vulputate. Kulgi ko'li Euismodning butun hayotining urn yoyidan nafratlanadi. Ular endi bu haqda o'ylamaydilar",
+        "10" : "Mijozlarga xizmat ko'rsatish kuzatiladi. Bu lekindan ko'ra yoqimli",
+        "11" : "KEYINGI POST",
+        "12" : "POST OLDINGI"
+
+    },"archive":{
+        "0" : "3 noy. 2022",
+        "1" : "saikat mondal",
+        "2" : " ta fikr",
+        "3" : "Arxiv",
+        "4" : "",
+        "5" : "",
+        "6" : "",
+        "7" : ""
+    },
+    "comments" :{
+        "0" : "Fikr qoldiring",
+        "1" : "Veb-sayt",
+        "2" : "404 Xato",
+        "3" : "QO’SHISH",
+        "4" : "Tarmoq xatosi 500",
+        "5" : "Malumot yo'q",
+        "6" : "",
+        "7" : "",
+        "8" : "",
+        "9" : "",
+        "10" : ""
+
+    }
+}

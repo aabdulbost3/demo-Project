@@ -1,0 +1,77 @@
+{
+    "Login":{
+        "0" : "hello",
+        "1" : "Quick",
+        "2" : "Log in",
+        "3" : "Welcome, please enter your phone number and password.",
+        "4" : "Enter email",
+        "5" : "Enter your password",
+        "6" : "Forgot password?",
+        "7" : "Login",
+        "8" : "Not registered?",
+        "9" : "Registration "
+    },
+    "Navbar":{
+        "0" : "Home",
+        "1" : "About me",
+        "2" : "Contact me",
+        "3" : "Hire me"
+    },
+    "Header": {
+        "0" : "Web Developer and Designer",
+        "1" : "Practices development since 2018",
+        "2" : "Go Profile",
+        "3" : "Saikat Mondal",
+        "4" : "Lorem ipsum dolor sit amet consectetur. Ac ut tristique facilisis lectus est tristique vestibulum aliquam. Hendrerit donec eget sed pellentesque.",
+        "5" : "My Skills",
+        "6" : "Download My CV",
+        "7" : "My Project",
+        "8" : "My Blog",
+        "9" : "Load more....",
+        "10" : "First name",
+        "11" : "Last name",
+        "12" : "email",
+        "13" : "Message",
+        "14" : "Send ",
+        "15" : "Your Site Name. All Rights Reserved. Designed by saikat mondal",
+        "16" : "About Blog",
+        "17" : "Lorem ipsum dolor sit amet consectetur. Aliquam pellentesque mi dis nisl id. Sit tortor orci ultrices pellentesque. Nec sed adipiscing quisque amet lectus orci pellentesque fringilla egestas.",
+        "18" : "Archive",
+        "19" : "Other Links "
+    },
+    "myblog":{
+        "0" : "UI & UX DESIGN",
+        "1" : "VIEW ALL",
+        "2" : "PopularPostsRight",
+        "3" : "TAG",
+        "4" : "Categorys",
+        "5" : "Newsletter",
+        "6" : "Aliqu justo et labore at eirmod justo sea erat diam dolodiam vero kasd",
+        "7" : "Sit eirmod nonumy kasd eirmod",
+        "8" : "Science",
+        "9" : "Lorem ipsum dolor sit amet consectetur. Vitae neque nunc posuere eleifend purus. Tincidunt in malesuada eget gravida accumsan odio. Elit etiam  eget tellus est mauris fames in. Fringilla aenean bibendum quis mauris et ut lacus. Vel egestas mattis in dui in metus augue vivamus lobortis. Convallis egestas sed eget aenean. Et sem velit dui augue. Nullam sollicitudin integer venenatis molestie nisl urna Quis consectetur nascetur aliquet dui nisl in vulputate. Lacus risus odio arcu urna tellus vitae integer vitae euismod. Non aenean id accum",
+        "10" : "Lorem ipsum dolor consectetur. Blandit quam sed",
+        "11" : "NEXT POST",
+        "12" : "PREV POST"
+    },
+    "archive":{
+        "0" : "3 Nov 2022",
+        "1" : "saikat mondal",
+        "2" : " comments",
+        "3" : "Archive"
+    },
+    "comments" :{
+        "0" : "Leave a comment",
+        "1" : "Website",
+        "2" : "404 Error",
+        "3" : "ADD",
+        "4" : "Network Error 500",
+        "5" : "There is no reference",
+        "6" : "",
+        "7" : "",
+        "8" : "",
+        "9" : "",
+        "10" : ""
+
+    }
+}

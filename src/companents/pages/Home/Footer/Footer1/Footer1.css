@@ -1,0 +1,8 @@
+.foterall{
+  background: #332E2E;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 3% 8%;
+  display: flex;
+}

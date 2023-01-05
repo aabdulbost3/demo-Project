@@ -1,0 +1,17 @@
+.Imgdiv {
+    width: 100%;
+    display: flex;
+
+}
+.zz {
+    width: 80%;
+    margin: 2% 3%;
+    border: 1px solid #fff;
+}
+.zz img {
+    transition: 0.4s;
+    width: 100%;
+}
+.zz img:hover {
+    opacity: 0.7;
+}

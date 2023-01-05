@@ -1,0 +1,66 @@
+.MyBlogSingleCommentInputs {
+  padding: 3% 10%;
+  border: 1px solid #fff;
+}
+.MyBlogSingleCommentInputs h1 {
+    color: #fff;
+    text-align: center;
+    padding: 3% 0;
+}
+.inputsname {
+  display: flex;
+  justify-content: space-between;
+}
+.MyBlogSingleCommentInputs p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 41px;
+  color: #ffffff;
+}
+.MyBlogSingleCommentInputs input {
+  background: rgba(244, 241, 241, 0.6);
+  border-radius: 8px;
+  color: #fff;
+
+}
+
+.inputsname input {
+  padding: 10px 0 10px 20px;
+  width: 100%;
+}
+.email input{
+    width: 100%;
+    padding: 10px 0 10px 30px;
+    font-size: 20px;
+}
+.email {
+    margin-top: 3%;
+}
+.description{
+    margin-top: 3%;
+}
+.description input{
+    width: 100%;
+    padding: 20px 0px 80px 30px;
+    font-size: 20px;
+}
+.Contactbtn {
+    text-align: center;
+    margin-top: 3%;
+    width: 100%;
+}
+.Contactbtn button {
+  width: 100%;
+  font-size: 24px;
+}
+@media only screen and (max-width: 675px) {
+    .inputsname{
+        flex-wrap: wrap;
+    }
+  .Contactbtn button {
+  width: 100%;
+  font-size: 20px;
+}
+}
