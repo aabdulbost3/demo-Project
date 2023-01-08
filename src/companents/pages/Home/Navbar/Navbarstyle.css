@@ -20,6 +20,8 @@
 .menu > li {
   margin: 0 1rem;
   overflow: hidden;
+  font-weight: 600;
+  font-size: 19px;
 }
 .menu li a {
   color: #FFF !important;

@@ -20,7 +20,7 @@ function Navbar() {
     <div className="container">
     <section class="top-nav">
     <div>
-      Logo Here
+      <h2>A.Abdujalilov</h2>
     </div>
     <input id="menu-toggle" type="checkbox" />
     <label class='menu-button-container' for="menu-toggle">
