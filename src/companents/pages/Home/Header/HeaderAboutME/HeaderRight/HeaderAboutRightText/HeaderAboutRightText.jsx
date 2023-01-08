@@ -13,7 +13,7 @@ const { t, i18n } = useTranslation();
       <p>{t("Header.4")}</p><br />
       <div className="HeaderRightBtn">
       <NavLink to={"/contact"}>
-        <b className="white-btn">{t("Navbar.2")}</b>
+        <b className="white-btn qza">{t("Navbar.2")}</b>
       </NavLink>
       </div>
     </div>

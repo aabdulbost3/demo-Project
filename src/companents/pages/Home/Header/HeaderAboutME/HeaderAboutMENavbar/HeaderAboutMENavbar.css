@@ -8,3 +8,15 @@
   text-align: center;
   padding: 50px 0 30px 0;
 }
+@media (max-width: 700px) {
+  .HeaderAboutMENavbar p {
+    text-align: center;
+    font-size: 35px;
+  }
+}
+@media (max-width: 400px) {
+  .HeaderAboutMENavbar p {
+    text-align: center;
+    font-size: 25px;
+  }
+}

@@ -1,11 +1,11 @@
 .HeaderAboutRightIcon{
     display: flex;
     width: 100%;
+    justify-content: space-around;
 }
 .Iconsdiv i {
     color: #DADEE8;
     font-size: 100px;
-    margin:0 5vh 0 0;
     transition: 0.4s;
 }
 .Iconsdiv i:hover {
@@ -19,12 +19,10 @@
 @media only screen and (max-width: 890px) {
 .Iconsdiv i{
     font-size: 60px;
-    margin: 0 4vh 0 0;
 }
 }
 @media only screen and (max-width: 700px) {
 .Iconsdiv i{
     font-size: 40px;
-    margin: 0 4vh 0 0;
 }
 }
