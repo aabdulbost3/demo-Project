@@ -6,17 +6,6 @@ import Select from '../../../minicomp/select/select'
 function Navbar() {
   const { t, i18n } = useTranslation();
   return (
-    // <div className="container">
-    // <div className='Navbar'>
-    //   <ul>
-    //     <ol><Select/></ol>
-    //     
-    //     
-    //     
-    //     <li><p></p></li>
-    //   </ul>
-    // </div>
-    // </div>
     <div className="container">
     <section class="top-nav">
     <div>
