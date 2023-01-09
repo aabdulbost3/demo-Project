@@ -3,5 +3,22 @@
 }
 .MyBlogButton{
     text-align: center;
-    margin: 100px 0;
+    padding: 10% 0;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.qce {
+    width: 100%;
+
+}
+@media only screen and (max-width: 450px) {
+    .MyBlogButton p{
+      width: 100%;
+      font-size: 14px;
+    }
+    .MyBlogButton {
+        text-align: center;
+        width: 50%;
+    }
 }

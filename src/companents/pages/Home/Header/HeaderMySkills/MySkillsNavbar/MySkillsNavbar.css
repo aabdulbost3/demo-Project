@@ -8,3 +8,76 @@
   line-height: 54px;
   color: #f5f5f5;
 }
+@media only screen and (max-width: 1000px) {
+  .MySkillsNavbar p{
+    line-height: 29px;
+    font-size: 18px;
+    width: 380px;
+  }
+  .MySkillsNavbar {
+    width: 380px;
+  }
+  .MySkillsNavbar h1  {
+    font-size: 38px;
+  }
+}
+@media only screen and (max-width: 890px) {
+  .MySkillsNavbar p{
+    font-size: 16px;
+    width: 300px;
+    line-height: 19px;
+  }
+  .MySkillsNavbar {
+    width: 300px;
+  }
+  .MySkillsNavbar h1  {
+    font-size: 32px;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .MySkillsNavbar p{
+    font-size: 14px;
+    width: 260px;
+  }
+  .MySkillsNavbar {
+    width: 260px;
+  }
+  .MySkillsNavbar h1  {
+    font-size: 26px;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .MySkillsNavbar p{
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    line-height: 180%;
+    margin: 0 auto !important;
+    
+  }
+  .MySkillsNavbar {
+    width: 100%;
+    text-align: center;
+
+  }
+  .MySkillsNavbar h1  {
+    font-size:26px;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .MySkillsNavbar p{
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+    line-height: 130%;
+  }
+  .MySkillsNavbar {
+    width: 100%;
+    text-align: center;
+  }
+  .MySkillsNavbar h1  {
+    font-size:22px;
+    text-align: center;
+  }
+}

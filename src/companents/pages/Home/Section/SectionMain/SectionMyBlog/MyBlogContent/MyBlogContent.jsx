@@ -10,8 +10,10 @@ const { t, i18n } = useTranslation();
     <div>
       <MyBlogContent1 />
       <MyBlogContent2 />
+      <div className="qce">
       <div className="MyBlogButton">
         <NavLink to={"/myblog"}><p className="white-btn">{t("Header.9")}</p></NavLink>
+      </div>
       </div>
     </div>
   );

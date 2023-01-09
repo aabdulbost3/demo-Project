@@ -8,7 +8,6 @@ text-align: justify;
 letter-spacing: 0.04em;
 text-transform: lowercase;
 color: #F5F5F5;
-max-width: 411px;
 }
 .HeaderMySkillsContentCenterLeftText {
     width: 100%;
@@ -22,12 +21,33 @@ max-width: 411px;
     width: 50%;
     margin: 0 auto;
 }
+@media only screen and (max-width: 1000px) {
+  .MySkillsNavbar p{
+    font-size: 18px;
+    }
+}
+@media only screen and (max-width: 890px) {
+  .MySkillsNavbar p{
+    font-size: 16px;
+    }
+}
+@media only screen and (max-width: 800px) {
+  .MySkillsNavbar p{
+    font-size: 14px;
+    }
+}
+@media only screen and (max-width: 700px) {
+  .MySkillsNavbar p{
+    font-size: 20px;
+  }
+}
 @media only screen and (max-width: 675px) {
     .HeaderMySkillsContentCenterLeft {
         width: 100%;
     }
     .HeaderMySkillsContentCenterLeftText p {
-        width: 100%;
+        font-size: 20px;
+        width: 80%;
         text-align: center;
     }
     .HeaderMyskillsBtn {
@@ -35,7 +55,25 @@ max-width: 411px;
         margin-bottom: 5%;
     }
     .HeaderMyskillsBtn button {
+        width: 90%;
+        
+    }
+}
+@media only screen and (max-width: 450px) {
+    .HeaderMySkillsContentCenterLeft {
         width: 100%;
+    }
+    .HeaderMySkillsContentCenterLeftText p {
+        font-size: 16px;
+        width: 80%;
+        text-align: center;
+    }
+    .HeaderMyskillsBtn {
+        width: 80%;
+        margin-bottom: 5%;
+    }
+    .HeaderMyskillsBtn button {
+        width: 80%;
         
     }
 }
