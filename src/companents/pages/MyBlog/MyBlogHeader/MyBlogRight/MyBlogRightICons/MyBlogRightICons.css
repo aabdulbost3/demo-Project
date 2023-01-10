@@ -1,5 +1,5 @@
 .MyBlogRightICons {
-    width: 100%;
+    max-width: 100%;
     padding: 5%;
     display: flex;
     justify-content: space-between;
@@ -10,11 +10,11 @@
 .Iconsdiv {
     width: 33%;
 }
-.Iconsdiv i {
+.Iconsdiv h1 {
     color: #DADEE8;
-    font-size: 50px;
+    font-size: 5vw;
     transition: 0.3s;
 }
-.Iconsdiv i:hover {
+.Iconsdiv h1:hover {
     color: #fff;
 }

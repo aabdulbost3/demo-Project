@@ -14,7 +14,7 @@ function MyBlogLoginInput() {
           <MyBlogRightSearch/>
         </div>
         <div className="width30">
-          <button>Sing Up</button>
+          <button><p>Sing Up</p></button>
         </div>
       </div>
       <p>{t("myblog.7")}</p>

@@ -12,7 +12,7 @@ function MyBlogRightSearch() {
   useEffect(() => {getData();}, [data]);
   return (
     <div className="MyBlogRightSearch">
-      <Stack spacing={2} >
+      <Stack spacing={9} >
         <Autocomplete freeSolo id="free-solo-2-demo" disableClearable
           options={data.map((option) => option.title)}
           renderInput={(params) => (

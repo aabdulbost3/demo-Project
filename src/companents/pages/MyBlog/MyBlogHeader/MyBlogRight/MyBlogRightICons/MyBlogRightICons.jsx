@@ -18,7 +18,7 @@ const MyBlogRightICons=()=> {
       {data.map((post)=>{
         return(
           <div className='Iconsdiv' key={post.id}>
-            <NavLink to={post.link}><i className={post.className}></i></NavLink>
+            <NavLink to={post.link}><h1 className={post.className} id="ww"></h1></NavLink>
           </div>
         )})}
     </div>

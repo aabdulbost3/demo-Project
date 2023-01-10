@@ -29,5 +29,57 @@
 .PopularPostsRight h2{
     color: #fff;
     padding: 5% 0;
-    
+        
+}
+@media (max-width: 930px) {
+    .PopularPostsRight h2 {
+        font-size: 20px;
+    }
+    .PPCtext {
+        font-size: 12px;
+    }
+    .PPCtextdf{
+        font-size: 12px;
+    }
+    .PPCimg {
+        height: 100%;
+    }
+}
+@media (max-width: 800px) {
+    .PopularPostsRight h2 {
+        font-size: 16px;
+    }
+    .PPCtext {
+        font-size: 10px;
+    }
+    .PPCtextdf{
+        font-size: 10px;
+    }
+    .PPCimg {
+        height: 100%;
+    }
+}
+@media (max-width: 675px) {
+    .PopularPostsRight h2 {
+        font-size: 14px;
+    }
+    .PPCdiv{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .PPCtext {
+        font-size: 16px;
+        padding: 2%;
+        text-align: center;
+        width: 100%;
+    }
+    .PPCtextdf{
+        font-size: 16px;
+        padding: 2%;
+        width: 100%;
+
+    }
+    .PPCimg {
+        width: 100%;
+    }
 }

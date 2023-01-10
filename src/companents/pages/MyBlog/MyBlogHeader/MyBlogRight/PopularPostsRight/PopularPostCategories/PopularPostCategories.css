@@ -5,6 +5,8 @@
 .PopularPostCategories h2 {
     color: #fff;
     padding: 5% 0;
+    font-size:2vw !important;
+    font-weight: 700;
 }
 .PopularPostCategoriesp{
     width: 100%;
@@ -18,8 +20,9 @@
     color: #fff;
     border: 1px solid #fff;
     transition: 0.4s;
-    padding: 7px 15px 7px 15px;
-    margin: 5px;
+    padding: 1% 2% 1% 2%;
+    margin: 2%;
+    font-size: 1.5vw !important;
 }
 .PopularPostCategoriesp a:hover{
     background: #fff;

@@ -7,7 +7,8 @@
 .MyBlogLoginInput h2{
     color: #fff;
     font-weight: 800;
-    font-size: 22px;
+    font-size: 3vw;
+    text-align: center;
 }
 .MyBlogLoginInput p {
     text-align: center;
@@ -25,11 +26,12 @@
     padding: 3.5% 0;
 }
 .width30 button {
-    padding: 12px 25px;
+    padding: 2% 5%;
     color: #fff;
     background: red;
     transition: .3s;
     border: 1px solid #fff;
+    font-size: 6vh;
 }
 .width30 button:hover {
     color: rgb(255, 255, 255);

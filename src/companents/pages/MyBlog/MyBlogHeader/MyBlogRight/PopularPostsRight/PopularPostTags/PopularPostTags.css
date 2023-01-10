@@ -5,6 +5,8 @@
 .PopularPostTags h2 {
     color: #fff;
     padding: 2% 0;
+    font-size: 2vw !important;
+    font-weight: 700;
 }
 .PopularPostTagsp{
     width: 100%;
@@ -18,7 +20,8 @@
     border: 1px solid #fff;
     transition: 0.4s;
     padding: 1% 2% 1% 2%;
-    margin: 5px;
+    margin: 2%;
+    font-size: 1.5vw !important;
 }
 .PopularPostTagsp a:hover{
     background: #fff;

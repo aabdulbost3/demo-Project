@@ -16,6 +16,7 @@
     justify-content: space-between;
     padding: 5px 20px;
     border: 1px solid #fff;
+    font-size: 1vw !important;
 }
 .Myblognavbar h2 {
     color: #fff ;

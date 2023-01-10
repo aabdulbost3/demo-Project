@@ -2,7 +2,9 @@
     color: #000;
     border:1px solid #fff;
     background-color: #f3f3f3;
+    
 }
 .MyBlogRightSearch input::placeholder{
     color: #000;
+    font-size: 3vw !important;
 }

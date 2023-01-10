@@ -11,15 +11,16 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: 47px;
   line-height: 70px;
   color: #ffffff;
+  font-size: 4vw !important;
+
 }
 .HeaderMain div h2 {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: 30px;
+  font-size: 2vw !important;
   line-height: 45px;
   color: #ffffff;
 }
@@ -27,7 +28,6 @@
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
-  font-size: 24px;
   line-height: 88px;
 }
 .HeaderMainbtn {
@@ -37,13 +37,22 @@
   .HeaderMain {
     text-align: center;
   }
+  .HeaderMainbtn  {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+  }
 }
 @media only screen and (max-width: 450px) {
   .HeaderMain div h1{
-    font-size: 16px;
+  font-size: 7vw !important;
   }
   .HeaderMain div h2{
-    font-size: 14px;
+  font-size: 6vw !important;
+  }
+  .HeaderMainbtn p {
+    font-size: 4vw;
   }
   .HeaderMain div {
     padding: 0  2%;

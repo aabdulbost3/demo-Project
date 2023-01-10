@@ -11,12 +11,12 @@ function Navbar() {
     <div>
       <h2>A.Abdujalilov</h2>
     </div>
+    <p><Select/></p>
     <input id="menu-toggle" type="checkbox" />
     <label class='menu-button-container' for="menu-toggle">
     <div class='menu-button'></div>
   </label>
     <ul class="menu">
-      <li><p><Select/></p></li>
       <li><NavLink to={"/"} >{t("Navbar.0")}</NavLink></li>
       <li><NavLink to={"/aboutme"}>{t("Navbar.1")}</NavLink></li>
       <li><NavLink to={"/contact"}>{t("Navbar.2")}</NavLink></li>

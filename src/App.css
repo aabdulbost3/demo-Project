@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  background: #3d3838;
+}
 .container {
   max-width: 1250px;
   width: 100%;
@@ -39,36 +42,11 @@ img {
   background: rgba(255, 255, 255, 0);
   transition: 0.4s;
   border: 2px solid #ffffff;
+  font-size: 2vw ;
 }
 .white-btn:hover {
   color: #000;
   background: #ffffff;
   border: 2px solid #ffffff;
   box-shadow: rgba(255, 255, 255, 0.24) 0px 3px 8px;
-}
-@media only screen and (max-width: 1000px) {
-  .white-btn{
-    font-size: 20px;
-  }
-  .blue-btn{
-    font-size: 20px;
-  }
-}
-@media only screen and (max-width: 890px) {
-  .white-btn{
-    font-size: 16px;
-  }
-  .blue-btn{
-    font-size: 16px;
-  }
-}
-@media only screen and (max-width: 700px) {
-  .white-btn{
-    font-size: 12px;
-    padding: 5px 10px;
-  }
-  .blue-btn{
-    font-size: 12px;
-    padding: 5px 10px;
-  }
 }
