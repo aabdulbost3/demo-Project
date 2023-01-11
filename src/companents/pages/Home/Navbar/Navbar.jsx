@@ -20,7 +20,8 @@ function Navbar() {
       <li><NavLink to={"/"} >{t("Navbar.0")}</NavLink></li>
       <li><NavLink to={"/aboutme"}>{t("Navbar.1")}</NavLink></li>
       <li><NavLink to={"/contact"}>{t("Navbar.2")}</NavLink></li>
-      <li className='poiu'><NavLink to={"/archive"}>{t("Navbar.3")}</NavLink></li>
+      <li><NavLink to={"/archive"}>{t("Header.18")}</NavLink></li>
+      <li className='poiu'><NavLink to={"/myblog"}>{t("Navbar.3")}</NavLink></li>
     </ul>
   </section>
   </div>

@@ -17,13 +17,13 @@
 }
 .MyBlogLoginInputdf {
     display: flex;
+    align-items: center;    
 }
 .width70 {
     width: 60%;
 }
 .width30 {
     width: 40%;
-    padding: 3.5% 0;
 }
 .width30 button {
     padding: 2% 5%;
@@ -31,11 +31,28 @@
     background: red;
     transition: .3s;
     border: 1px solid #fff;
-    font-size: 6vh;
+    font-size: 2vw;
 }
 .width30 button:hover {
     color: rgb(255, 255, 255);
     border: 1px solid red;
     background-color: rgba(255, 255, 255, 0);
     box-shadow: rgba(255, 0, 0, 0.35) 0px 5px 15px;
+}
+
+@media only screen and (max-width: 675px) {
+    .width70{
+        width: 100%;
+    }
+    .width30{
+        width: 100%;
+    }
+    .width30 button{
+        font-size: 3vw;
+        width: 100%;
+    }
+    .MyBlogLoginInputdf {
+        display: flex;
+        flex-wrap: wrap;
+    }
 }

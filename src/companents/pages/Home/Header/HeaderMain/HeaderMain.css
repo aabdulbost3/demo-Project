@@ -44,7 +44,7 @@
     text-align: center;
   }
 }
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 650px) {
   .HeaderMain div h1{
   font-size: 7vw !important;
   }

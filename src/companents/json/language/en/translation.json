@@ -15,6 +15,8 @@
         "0" : "Home",
         "1" : "About me",
         "2" : "Contact me",
+        "18" : "Archive",
+
         "3" : "Hire me"
     },
     "Header": {

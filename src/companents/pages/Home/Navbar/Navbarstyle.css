@@ -83,12 +83,13 @@
   margin-top: 0px;
   transform: rotate(-405deg);
 }
-@media (max-width: 700px) {
+@media (max-width: 860px) {
   .menu-button-container {
     display: flex;
   }
   .menu {
     position: absolute;
+    z-index: 99;
     top: 0;
     margin-top: 80px;
     left: 0;
@@ -123,24 +124,22 @@
     border-bottom: 1px solid #444;
   }
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 860px) {
   .poiu{
     background: #222;
-    border-radius: 0 0 10px 10px;
+    border-radius: 0 0 10px 10px !important;
   }
   .menu li {
     color: #fff;
+    border: 1px solid #fff;
   }
   .menu li:hover {
     color: #fff;
     border: none;
     box-shadow: none;
-    border-radius: 10px;
+    border-radius: 0px;
     background-color: red;
     color: #222;
     border: 1px solid #fff;
-  }
-  .menu li:hover:nth-child(4){
-    border-radius: 0 0 10px 10px;
   }
 }
