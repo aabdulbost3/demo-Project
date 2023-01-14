@@ -1,6 +1,5 @@
 import React from 'react'
 import "./style.css"
-
 function Select() {
     const selectChange = async (e) =>{
         await window.localStorage.setItem("i18nextLng" , e.target.value)
