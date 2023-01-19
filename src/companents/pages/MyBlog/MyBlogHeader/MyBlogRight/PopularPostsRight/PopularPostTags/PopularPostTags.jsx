@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 import { NavLink } from "react-router-dom";
 function PopularPostTags() {
   const [data, setData] = useState([]);
-  const getData = () => {fetch("http://localhost:8000/tag")
+  const getData = () => {fetch("https://api.npoint.io/8db6988fa41da4dd3645/tag")
       .then(function (response) {return response.json();})
       .then(function (myJson) {setData(myJson);});};
   useEffect(() => {getData();},

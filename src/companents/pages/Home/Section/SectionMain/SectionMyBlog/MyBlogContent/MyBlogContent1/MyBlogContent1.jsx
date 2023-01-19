@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 function MyBlogContent1() {
      const [data, setData] = useState([]);
   const getData = () => {
-    fetch("http://localhost:8000/MyBlogContent")
+    fetch("https://api.npoint.io/8db6988fa41da4dd3645/MyBlogContent")
       .then(function (response) {
         return response.json();})
       .then(function (myJson){

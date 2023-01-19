@@ -15,7 +15,7 @@ function SectionContactInputs() {
       Email: Email.current.value,
       Description: Description.current.value,
     };
-    const res = await axios.post(`http://localhost:8000/chat`, body);
+    const res = await axios.post(`https://api.npoint.io/8db6988fa41da4dd3645/chat`, body);
     message.current.value = null;
     messagefam.current.value = null;
     Email.current.value = null;

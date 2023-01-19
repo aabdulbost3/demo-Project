@@ -11,7 +11,7 @@ function MyBlogSingleCommentInputs() {
   const HandleSubmit = async (e) => {e.preventDefault();
     const body = {message: message.current.value,messagefam: messagefam.current.value,
     Website: Website.current.value,Description: Description.current.value,};
-    const res = await axios.post(`http://localhost:8000/Comment`, body,)
+    const res = await axios.post(`https://api.npoint.io/8db6988fa41da4dd3645/Comment`, body,)
     message.current.value = null;
     messagefam.current.value = null;Website.current.value = null;
     Description.current.value = null;};const { t, i18n } = useTranslation();

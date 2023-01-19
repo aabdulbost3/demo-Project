@@ -6,7 +6,7 @@ import Autocomplete from "@mui/material/Autocomplete";
 import { useState, useEffect } from "react";
 function MyBlogRightSearch() {
   const [data, setData] = useState([]);
-  const getData = () => {fetch("http://localhost:8000/top100Films")
+  const getData = () => {fetch("https://api.npoint.io/8db6988fa41da4dd3645/top100Films")
       .then(function (response) {return response.json();
       }).then(function (myJson) {setData(myJson);});};
   useEffect(() => {getData();}, [data]);

@@ -7,7 +7,7 @@ function Icons() {
     
     const [data, setData] = useState([]);
     const getData = () => {
-    fetch("http://localhost:8000/iconsAdmin")
+    fetch("https://api.npoint.io/8db6988fa41da4dd3645/iconsAdmin")
       .then(function (response) {
         return response.json();})
       .then(function (myJson){

@@ -8,7 +8,7 @@ function MyBlogSingleCommentGet() {
   const [data, setData] = useState([]);
   const [IsError, setIsError] = useState(false);
   useEffect(() => {
-    axios.get(`http://localhost:8000/Comment`)
+    axios.get(`https://api.npoint.io/8db6988fa41da4dd3645/Comment`)
     .then((response) => {
       setData(response.data);
     })

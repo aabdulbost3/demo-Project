@@ -14,7 +14,7 @@ function AdminRightContentGetPost() {
 
   useEffect(() => {
     // setIsLoading(true)
-    axios.get(`http://localhost:8000/chat`).then((response) => {
+    axios.get(`https://api.npoint.io/8db6988fa41da4dd3645/chat`).then((response) => {
       setData(response.data);
     });
     // .finally(()=> setIsLoading(false))
@@ -23,7 +23,7 @@ function AdminRightContentGetPost() {
   const { t, i18n } = useTranslation();
     const HandeleDelete = async (e) => {
     const res = await axios.delete(
-      `http://localhost:8000/chat/${e.target.value}`
+      `https://api.npoint.io/8db6988fa41da4dd3645/chat/${e.target.value}`
     );
     console.log(res);
   };
